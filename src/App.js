@@ -4,7 +4,7 @@ import "./app.css";
 function App() {
   return (
     <>
-    <Formulario/>
+    <Formulario titulo="Entrar"/>
     </>
   );
 }
